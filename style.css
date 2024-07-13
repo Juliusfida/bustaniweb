@@ -1,0 +1,27 @@
+
+.body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: baseline;
+    background-image: url(images/products\ icon\ Flowers.jpg);
+    background-size: cover;
+    background-position:center ;
+    background-repeat: no-repeat;
+}
+.navigation {
+    margin: 30;
+    padding: 20;
+    background-image: url(images/bustanilogo.jpeg);
+    opacity: 120%;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;   
+}
+.hom,.product,.service,.catalogu,.contac {
+    align: content; 3px;:horizontal
+    margin-bottom: auto;
+    padding-bottom:0;
+    display: flex;    
+}
