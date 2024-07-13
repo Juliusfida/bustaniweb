@@ -20,8 +20,5 @@
     background-repeat: no-repeat;   
 }
 .hom,.product,.service,.catalogu,.contac {
-    align: content; 3px;:horizontal
-    margin-bottom: auto;
-    padding-bottom:0;
-    display: flex;    
+       
 }
