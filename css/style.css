@@ -19,6 +19,9 @@
     background-size: cover;
     background-repeat: no-repeat;   
 }
-.hom,.product,.service,.catalogu,.contac {
-       
+    * {background-color: brown;
+
+}
+.navigation {
+    
 }
